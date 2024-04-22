@@ -189,6 +189,6 @@ all code is your original work. `</legalese>`
 
 See LICENSE for more info.
 
-[lib/features.js]: https://github.com/bcoin-org/bfile/blob/master/lib/features.js
-[lib/legacy.js]: https://github.com/bcoin-org/bfile/blob/master/lib/legacy.js
-[lib/compat.js]: https://github.com/bcoin-org/bfile/blob/master/lib/compat.js
+[lib/features.js]: https://github.com/raptoracle/bfile/blob/master/lib/features.js
+[lib/legacy.js]: https://github.com/raptoracle/bfile/blob/master/lib/legacy.js
+[lib/compat.js]: https://github.com/raptoracle/bfile/blob/master/lib/compat.js

@@ -7,10 +7,10 @@
     "fs"
   ],
   "license": "MIT",
-  "repository": "git://github.com/bcoin-org/bfile.git",
-  "homepage": "https://github.com/bcoin-org/bfile",
+  "repository": "git://github.com/raptoracle/bfile.git",
+  "homepage": "https://github.com/raptoracle/bfile",
   "bugs": {
-    "url": "https://github.com/bcoin-org/bfile/issues"
+    "url": "https://github.com/raptoracle/bfile/issues"
   },
   "author": "Christopher Jeffrey <chjjeffrey@gmail.com>",
   "main": "./lib/bfile.js",
@@ -22,7 +22,7 @@
     "test-stable": "bmocha -e BFILE_FORCE_STABLE=1 ./test/*-test.js"
   },
   "devDependencies": {
-    "bmocha": "^2.1.8"
+    "bmocha": "git+https://github.com/raptoracle/bmocha.git#semver:=2.2.0"
   },
   "engines": {
     "node": ">=8.0.0"
