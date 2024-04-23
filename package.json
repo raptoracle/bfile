@@ -22,7 +22,7 @@
     "test-stable": "bmocha -e BFILE_FORCE_STABLE=1 ./test/*-test.js"
   },
   "devDependencies": {
-    "bmocha": "git+https://github.com/raptoracle/bmocha.git#semver:=2.2.0"
+    "bmocha": "git+https://github.com/raptoracle/bmocha.git"
   },
   "engines": {
     "node": ">=8.0.0"
